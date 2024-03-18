@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ventana">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/boletin3_3/ventana.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
